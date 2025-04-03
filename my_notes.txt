@@ -1,0 +1,5 @@
+Linea 1: Estas son mis metas personales.
+Linea 2: Estoy practicando manejo de archivos en Excel.
+Linea 3: Es importante cerrar los archivos después de usarlos.
+Linea 4: Usar writelines() facilita la escritura de múltiples líneas.
+Linea 5: Ahora probaremos una forma diferente de leer el archivo.
